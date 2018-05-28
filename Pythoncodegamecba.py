@@ -53,7 +53,7 @@ sleep(1)
 
 #Qestion time
 print("Question time!")
-while True:
+while True: #Forcing it into a loop so you need to chose the right answer if you want to procceed
     print("What day is Bastile day??")
 
     choice=input("Press 1 for July 12th 1789 and press 2 for July 14,1789 ")#Telling it to do a task

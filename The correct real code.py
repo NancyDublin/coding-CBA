@@ -1,3 +1,5 @@
+items = ["Phone","Car keys","Knife","health pack"] #Adding a list
+
 from time import sleep
 #introduction
 print("Hello and welcome to our CBA")
@@ -90,4 +92,4 @@ print("*You get back into the car a slight bit traumatised")
 sleep(1)
 print("Wow that escalated quickly!!")
 
-
+#This is the start of the code which we are planning to add more onto and making it more advance 

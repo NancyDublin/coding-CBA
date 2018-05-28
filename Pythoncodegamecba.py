@@ -53,16 +53,16 @@ sleep(1)
 
 #Qestion time
 print("Question time!")
+while True:
+    print("What day is Bastile day??")
 
-print("What day is Bastile day??")
+    choice=input("Press 1 for July 12th 1789 and press 2 for July 14,1789 ")#Telling it to do a task
+    if choice==1:#Reacting to the choice you made
+        print("Wrong")
 
-choice=input("Press 1 for July 12th 1789 and press 2 for July 14,1789 ")#Telling it to do a task
-if choice==1:#Reacting to the choice you made
-    print("Wrong")
-
-elif choice==2:
-    print("Correct")
-
+    elif choice==2:
+        print("Correct")
+   break 
 
 
 

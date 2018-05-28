@@ -87,6 +87,7 @@ sleep(1)
 print("*people are happy after seeing his head chopped off")
 sleep(1)
 print("*You get back into the car a slight bit traumatised")
-
+sleep(1)
+print("Wow that escalated quickly!!")
 
 
